@@ -1,0 +1,24 @@
+.logo{
+    background-color: #71a2a9;
+    text-align: center;
+}
+
+body{
+    background-color: #71a2a9;
+}
+.consclase{
+    width: 700px;
+    height: 400px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.navegadores{
+    background-color: #71a2a9;
+    text-align: center;
+}
+
+li{
+    justify-content: space-around;
+}
+
